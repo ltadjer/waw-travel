@@ -1,14 +1,13 @@
 # Waw.travel
 
-Waw.travel est un projet collaboratif développé par 3 développeurs en Master Tech Lead de la promotion 2023-2025.
-
 ## Présentation du Projet
-Waw.travel est une plateforme web gratuite conçue pour les passionnés de road trips afin de partager leurs aventures avec leur famille et leurs amis. Le projet est initié par l'agence de communication "New Horizons" et vise à créer un espace communautaire baptisé "Waw" (Where Are We). La plateforme permet aux utilisateurs de créer des carnets de voyage avec plusieurs points de contrôle, et une page web publique fournit des informations détaillées sur l'ensemble du road trip.
+Waw.travel est une plateforme web conçue pour les passionnés de road trips afin de partager leurs aventures avec leur famille et leurs amis. Le projet est initié par l'agence de communication "New Horizons" et vise à créer un espace communautaire baptisé "Waw" (Where Are We). La plateforme permet aux utilisateurs de créer des carnets de voyage avec plusieurs points de contrôle, et une page web publique fournit des informations détaillées sur l'ensemble du road trip.
+(c'est un projet fictif)
 
 ## Mise en Route
 1. **Cloner le Répertoire :**
    ```bash
-   git clone https://github.com/Aurore-Enoch/waw-travel.git
+   git clone https://github.com/ltadjer/waw-travel.git
    ```
 
 2. **Configurer PHP et Tailwind CSS :**
@@ -38,16 +37,3 @@ Waw.travel est une plateforme web gratuite conçue pour les passionnés de road 
   - Afficher une liste de tous les road trips.
 - **Sécurité :** Mise en place d'une protection contre les vulnérabilités XSS.
 - **Feedback Utilisateur :** Utilise un système de messagerie flash pour fournir des retours d'information aux utilisateurs.
-
-
-## Membres de l'Équipe
-Le projet a été réalisé par les individus talentueux de l'équipe Master Tech Lead :
-
-
-- **[Aurore's GitHub](https://github.com/Aurore-Enoch)**
-- **[Achraf's GitHub](https://github.com/achrafaitmbarek)**
-- **[Liticia's GitHub](https://github.com/ltadjer)**
-
-N'hésitez pas à explorer le projet et, si vous avez des questions ou besoin d'assistance, veuillez contacter l'un des membres de l'équipe mentionnés ci-dessus.
-
-
